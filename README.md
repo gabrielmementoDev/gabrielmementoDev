@@ -24,14 +24,17 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmementoDev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmementoDev&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmementoDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmementoDev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielmementoDev&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@email.com
-- 💼 LinkedIn: coloque-aqui
+- 📧 Email: Gabrielmementodev@gmail.com
+- 💼 LinkedIn: ------------ 
